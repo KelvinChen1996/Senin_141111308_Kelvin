@@ -7,3 +7,6 @@ D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Senin_141111308_Kelvin\Lati
 D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Senin_141111308_Kelvin\Latihan_3_1\obj\Debug\Latihan_3_1.csproj.GenerateResource.Cache
 D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Senin_141111308_Kelvin\Latihan_3_1\obj\Debug\Latihan_3_1.exe
 D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Senin_141111308_Kelvin\Latihan_3_1\obj\Debug\Latihan_3_1.pdb
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_3_1\bin\Debug\Latihan_3_1.exe.config
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_3_1\obj\Debug\Latihan_3_1.exe
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_3_1\obj\Debug\Latihan_3_1.pdb
