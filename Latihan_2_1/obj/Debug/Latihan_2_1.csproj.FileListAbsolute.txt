@@ -7,3 +7,12 @@ D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Senin_141111308_Kelvin\Lati
 D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Senin_141111308_Kelvin\Latihan_2_1\obj\Debug\Latihan_2_1.exe
 D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Senin_141111308_Kelvin\Latihan_2_1\obj\Debug\Latihan_2_1.pdb
 D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Senin_141111308_Kelvin\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_2_1\bin\Debug\Latihan_2_1.exe.config
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_2_1\bin\Debug\Latihan_2_1.exe
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_2_1\bin\Debug\Latihan_2_1.pdb
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_2_1\obj\Debug\Latihan_2_1.Form1.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_2_1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_2_1\obj\Debug\Latihan_2_1.csproj.GenerateResource.Cache
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_2_1\obj\Debug\Latihan_2_1.exe
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_2_1\obj\Debug\Latihan_2_1.pdb

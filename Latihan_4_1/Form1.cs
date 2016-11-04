@@ -129,6 +129,7 @@ namespace Latihan_4_1
             toolStripComboBox3.ComboBox.DrawItem += new DrawItemEventHandler(toolStripComboBox3_DrawItem);
             toolStripComboBox3.ComboBox.DrawMode = DrawMode.OwnerDrawFixed;
 
+
             refresh_teks();
         }
 
@@ -142,7 +143,6 @@ namespace Latihan_4_1
         private void toolStripComboBox3_DrawItem(object sender, DrawItemEventArgs e)
         {
             // mengatasi agar dropdownlist kelihatan 
-
 
             if (e.Index >= 0)
             {
