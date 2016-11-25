@@ -1,0 +1,9 @@
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\volleyball_problem\obj\Debug\volleyball_problem.pdb
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
