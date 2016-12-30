@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D46E6645-2F71-4985-84D8-0899DA2528BF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Latihan_POS</RootNamespace>
+    <AssemblyName>Latihan_POS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\New folder\METRO DLL\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\New folder\METRO DLL\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\New folder\METRO DLL\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.8.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\class_Barang.cs" />
+    <Compile Include="Class\class_Customer.cs" />
+    <Compile Include="Class\class_Database.cs" />
+    <Compile Include="Class\class_DetailPembelian.cs" />
+    <Compile Include="Class\class_DetailPenjualan.cs" />
+    <Compile Include="Class\class_Pembelian.cs" />
+    <Compile Include="Class\class_Penjualan.cs" />
+    <Compile Include="Class\class_Supplier.cs" />
+    <Compile Include="Form_DaftarBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DaftarBarang.Designer.cs">
+      <DependentUpon>Form_DaftarBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DaftarCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DaftarCustomer.Designer.cs">
+      <DependentUpon>Form_DaftarCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DaftarSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DaftarSupplier.Designer.cs">
+      <DependentUpon>Form_DaftarSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DeleteBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DeleteBarang.Designer.cs">
+      <DependentUpon>Form_DeleteBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DeleteCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DeleteCustomer.Designer.cs">
+      <DependentUpon>Form_DeleteCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DeleteSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DeleteSupplier.Designer.cs">
+      <DependentUpon>Form_DeleteSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DetailPembelian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DetailPembelian.Designer.cs">
+      <DependentUpon>Form_DetailPembelian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DetailPenjualan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DetailPenjualan.Designer.cs">
+      <DependentUpon>Form_DetailPenjualan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_EditBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_EditBarang.Designer.cs">
+      <DependentUpon>Form_EditBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_EditCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_EditCustomer.Designer.cs">
+      <DependentUpon>Form_EditCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_EditSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_EditSupplier.Designer.cs">
+      <DependentUpon>Form_EditSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_CekPembelian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CekPembelian.Designer.cs">
+      <DependentUpon>Form_CekPembelian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_CekPenjualan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CekPenjualan.Designer.cs">
+      <DependentUpon>Form_CekPenjualan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_RegistrasiBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_RegistrasiBarang.Designer.cs">
+      <DependentUpon>Form_RegistrasiBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_RegistrasiCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_RegistrasiCustomer.Designer.cs">
+      <DependentUpon>Form_RegistrasiCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_RegistrasiSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_RegistrasiSupplier.Designer.cs">
+      <DependentUpon>Form_RegistrasiSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pos.Designer.cs">
+      <DependentUpon>Pos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_DaftarBarang.resx">
+      <DependentUpon>Form_DaftarBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DaftarCustomer.resx">
+      <DependentUpon>Form_DaftarCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DaftarSupplier.resx">
+      <DependentUpon>Form_DaftarSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DeleteBarang.resx">
+      <DependentUpon>Form_DeleteBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DeleteCustomer.resx">
+      <DependentUpon>Form_DeleteCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DeleteSupplier.resx">
+      <DependentUpon>Form_DeleteSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DetailPembelian.resx">
+      <DependentUpon>Form_DetailPembelian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DetailPenjualan.resx">
+      <DependentUpon>Form_DetailPenjualan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_EditBarang.resx">
+      <DependentUpon>Form_EditBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_EditCustomer.resx">
+      <DependentUpon>Form_EditCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_EditSupplier.resx">
+      <DependentUpon>Form_EditSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_CekPembelian.resx">
+      <DependentUpon>Form_CekPembelian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_CekPenjualan.resx">
+      <DependentUpon>Form_CekPenjualan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_RegistrasiBarang.resx">
+      <DependentUpon>Form_RegistrasiBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_RegistrasiCustomer.resx">
+      <DependentUpon>Form_RegistrasiCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_RegistrasiSupplier.resx">
+      <DependentUpon>Form_RegistrasiSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pos.resx">
+      <DependentUpon>Pos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

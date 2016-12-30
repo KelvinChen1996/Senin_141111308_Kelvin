@@ -1,0 +1,76 @@
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\bin\Debug\Latihan_POS.exe
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\bin\Debug\Latihan_POS.pdb
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmMain.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.exe
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.pdb
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmRegistrasiBarang.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmDaftarBarang.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmEditBarang.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmDeleteBarang.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmRegistrasiCustomer.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmDaftarCustomer.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmEditCustomer.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmDeleteCustomer.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmRegistrasiSupplier.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmDaftarSupplier.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmEditSupplier.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmDeleteSupplier.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmPembelian.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmPenjualan.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmDetailPembelian.resources
+D:\Kuliah\Semester 5\Pemrograman net lanjutan\Senin_141111537_AdrianHartanto\Latihan_POS\obj\Debug\Latihan_POS.frmDetailPenjualan.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.exe
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.pdb
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\bin\Debug\Latihan_POS.exe
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\bin\Debug\Latihan_POS.pdb
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmMain.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmDaftarBarang.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmDaftarCustomer.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmDaftarSupplier.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmDeleteBarang.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmDeleteCustomer.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmDeleteSupplier.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmDetailPembelian.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmDetailPenjualan.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmEditBarang.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmEditCustomer.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmEditSupplier.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmPembelian.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmPenjualan.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmRegistrasiBarang.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmRegistrasiCustomer.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.frmRegistrasiSupplier.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\New folder\NEW\Senin_141111537_AdrianHartanto-master\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.exe
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.pdb
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\bin\Debug\Latihan_POS.exe
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\bin\Debug\Latihan_POS.pdb
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\bin\Debug\MySql.Data.xml
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\bin\Debug\MetroFramework.Design.dll
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\bin\Debug\MetroFramework.dll
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\bin\Debug\MetroFramework.Fonts.dll
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_DaftarBarang.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_DaftarCustomer.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_DaftarSupplier.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_DeleteBarang.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_DeleteCustomer.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_DeleteSupplier.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_DetailPembelian.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_DetailPenjualan.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_EditBarang.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_EditCustomer.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_EditSupplier.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_RegistrasiBarang.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_RegistrasiCustomer.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_RegistrasiSupplier.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Pos.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_CekPenjualan.resources
+D:\Tes\Semester 5\Pemrograman Framework NET Lanjutan\Tugas\Senin_141111308_Kelvin\Latihan_POS\obj\Debug\Latihan_POS.Form_CekPembelian.resources
